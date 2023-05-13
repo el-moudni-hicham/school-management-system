@@ -13,7 +13,7 @@ tasks, facilitate communication, and enhance overall organization within the sch
 
 > Video  Demonstration 
 
-* Adminstration Part :
+* Administration Part :
 
 https://github.com/el-moudni-hicham/school-management-system/assets/85403056/68191dd7-556e-47ed-8f7e-b5969d4572f2
 
