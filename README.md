@@ -4,7 +4,7 @@
 This school management system is a web application developed using PHP, Laravel, Bootstrap, and MySQL.
 It was created specifically to fulfill the requirements of the National School of Architecture - Agadir 
 for efficient school management. The system incorporates various features to streamline administrative
-tasks, facilitate communication, and enhance overall organization within the school.
+tasks, facilitate communication, and enhance overall organization within the school. 
 ```
 > Full Report 
    
